@@ -87,7 +87,7 @@ flowchart TD
 ---
 
 ### 📦 Donation Food Section
-![Claimed Food](outputs/Donations.png)
+![Donations](outputs/Donations.png)
 
 ---
 
